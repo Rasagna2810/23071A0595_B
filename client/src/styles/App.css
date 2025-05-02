@@ -1,0 +1,56 @@
+ body {
+  /* font-family: 'Roboto', sans-serif; */
+  margin: 0;
+  padding: 0;
+  background-color: #3570a3;
+}
+/*
+h1, h2, h3 {
+  color: #333;
+} */
+
+
+/* 
+.card {
+  width: 100px;
+  height: 140px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  display: inline-block;
+  margin: 10px;
+  position: relative;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px 5px 0 0;
+}
+
+.card .card-value {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.game-board {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.score-board {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.pie-chart {
+  margin: 20px auto;
+  width: 300px;
+  height: 300px;
+} */

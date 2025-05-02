@@ -1,0 +1,43 @@
+.playing-card {
+    width: 120px;
+    height: 180px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.playing-card:hover {
+    transform: scale(1.05);
+}
+
+.card-corner {
+    position: absolute;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    line-height: 1.2;
+}
+
+.top-left {
+    top: 6px;
+    left: 8px;
+    text-align: left;
+}
+
+.bottom-right {
+    bottom: 6px;
+    right: 8px;
+    text-align: right;
+    transform: rotate(180deg);
+}
+
+.card-image {
+    width: 60%;
+    height: auto;
+    margin-top: 40px;
+}
